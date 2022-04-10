@@ -1,0 +1,1 @@
+Following a question on [my blog](http://davidsiew.wordpress.com/2013/08/07/castle-windsor-nlog-integration/#comment-156), I've decided to put together a complete example.
